@@ -13,7 +13,7 @@ source:
   sha256: 0e63a7e00a1f7108d4fa406511c779bed9c1eca7ded688a9af01706f33878a95
 
 build:
-  number: 0
+  number: 1
   script:
     env:
       PYTHONUTF8: "1"
