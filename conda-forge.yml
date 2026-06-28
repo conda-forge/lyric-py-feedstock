@@ -12,7 +12,7 @@ workflow_settings:
         #- linux_ppc64le
         - osx_64
         - osx_arm64
-        - win_64
+        #- win_64
       value: true
 build_platform:
   linux_aarch64: linux_64
