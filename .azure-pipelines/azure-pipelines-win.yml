@@ -15,7 +15,7 @@ jobs:
         free_disk_space: skip
         pagefile_size: 0
         resize_partitions: false
-        store_build_artifacts: false
+        store_build_artifacts: null
         tools_install_dir: D:\Miniforge
       win_64_python3.11.____cpython:
         CONFIG: win_64_python3.11.____cpython
@@ -24,7 +24,7 @@ jobs:
         free_disk_space: skip
         pagefile_size: 0
         resize_partitions: false
-        store_build_artifacts: false
+        store_build_artifacts: null
         tools_install_dir: D:\Miniforge
       win_64_python3.12.____cpython:
         CONFIG: win_64_python3.12.____cpython
@@ -33,7 +33,7 @@ jobs:
         free_disk_space: skip
         pagefile_size: 0
         resize_partitions: false
-        store_build_artifacts: false
+        store_build_artifacts: null
         tools_install_dir: D:\Miniforge
       win_64_python3.13.____cp313:
         CONFIG: win_64_python3.13.____cp313
@@ -42,7 +42,7 @@ jobs:
         free_disk_space: skip
         pagefile_size: 0
         resize_partitions: false
-        store_build_artifacts: false
+        store_build_artifacts: null
         tools_install_dir: D:\Miniforge
   timeoutInMinutes: 360
   variables:
